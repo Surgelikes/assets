@@ -1,0 +1,10 @@
+{
+    "name": "Pantha",
+    "type": "BEP20",
+    "symbol": "PANTHA",
+    "decimals": 18,
+    "website": "https://pancakeswap.finance/",
+    "description": "Pantha is a identity token for the purchase of high valued items"
+    "explorer": "https://bscscan.com/token/0x6593852a2c0a140af1b3f3d71f83fef90cd8c928",
+    "status": "active",
+    "id": "0x6593852a2c0a140af1b3f3d71f83fef90cd8c928"
